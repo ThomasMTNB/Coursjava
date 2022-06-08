@@ -1,3 +1,6 @@
+
+/*
+
 public class ConditionsIntro {
     public static void main(String[] args) {
         //Declaration de la variable age
@@ -10,6 +13,7 @@ public class ConditionsIntro {
         //Sinon
         // Afficher "Vous etes mineur, et vous ne pouvez pas y participer"
         //Fin sin
+
         if(age>=18){
             System.out.println("Vous etes majeur.Donc vous pouvez participer");
         }else{
@@ -31,3 +35,4 @@ public class ConditionsIntro {
     }
 }
 
+*/
