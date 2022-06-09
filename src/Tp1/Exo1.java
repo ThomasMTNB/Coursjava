@@ -5,7 +5,10 @@ public class Exo1 {
 
         byte age=16;
 
-        if (age>=7 && age<10) {
+        if (age<7) {
+            System.out.println("too young");
+        }
+        else if (age>=7 && age<10) {
             System.out.println("Poussin");
         }
         else if (age>=10 && age<11) {
@@ -21,7 +24,7 @@ public class Exo1 {
             System.out.println("Cadet");
         }
         else {
-            System.out.println("not kid yo");
+            System.out.println("not a kid yo");
         }
     }
 }

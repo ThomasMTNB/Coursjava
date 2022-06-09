@@ -11,7 +11,7 @@ public class Exo4 {
         C = B;
         A = Ctemp;
         B = Atemp;
-        System.out.println(A+" "+B+" "+C);
+        System.out.println("a="+A+" "+"b="+B+" "+"c="+C);
 
     }
 }
