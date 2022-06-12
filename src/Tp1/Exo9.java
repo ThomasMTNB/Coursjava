@@ -10,6 +10,21 @@ public class Exo9 {
         String monthresult;
 
 
+        switch (monthid) {
+            case 1:
+                monthresult ="janvier";
+            break;
+
+            case 2:
+                monthresult = "fevrier";
+            break;
+
+            case 3:
+                monthresult = "mars";
+            break;
+        }
+
+
 
 
         /*

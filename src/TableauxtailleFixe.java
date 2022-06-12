@@ -5,6 +5,7 @@ public class TableauxtailleFixe {
         float[] notesMath=new float[5];//{ 0.0, 0.0, 0.0, 0.0,0.0 }
 
 
+
         //Acces au tableau sans boucle
         System.out.println("Acces au tableau sans boucle\n***********************");
         System.out.println(notesPhysique[0]);

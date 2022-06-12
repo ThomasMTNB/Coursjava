@@ -4,7 +4,7 @@ import java.sql.SQLOutput;
 
 public class exo7 {
     public static void main(String[] args) {
-        byte n=5;
+        byte n=0;
 
         boolean iseven=(n % 2 == 0);
         boolean ispositif;

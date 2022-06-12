@@ -3,7 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="f2ef0b39-8cc5-4cb5-b738-e694408e1e22" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp1/Exo10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tp1/Exo10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TableauxtailleFixe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TableauxtailleFixe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tp1/Exo15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tp1/Exo15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tp1/Exo17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tp1/Exo17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tp1/Exo9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tp1/Exo9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tp1/exo16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tp1/exo16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tp1/exo7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tp1/exo7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +46,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.exo16">
-    <configuration name="Exo14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tp1.Exo14" />
+  <component name="RunManager" selected="Application.Exo17">
+    <configuration name="Exo17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tp1.Exo17" />
       <module name="Algojava" />
       <extension name="coverage">
         <pattern>
@@ -55,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tp1.Exo10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tp1.Exo10" />
+    <configuration name="Exo9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tp1.Exo9" />
       <module name="Algojava" />
       <extension name="coverage">
         <pattern>
@@ -68,28 +73,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tp1.Exo13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tp1.Exo13" />
+    <configuration name="TableauxtailleFixe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TableauxtailleFixe" />
       <module name="Algojava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tp1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tp1.Exo15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tp1.Exo15" />
-      <module name="Algojava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tp1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -107,13 +93,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="exo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tp1.exo7" />
+      <module name="Algojava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tp1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exo17" />
         <item itemvalue="Application.exo16" />
-        <item itemvalue="Application.Exo14" />
-        <item itemvalue="Application.Tp1.Exo13" />
-        <item itemvalue="Application.Tp1.Exo15" />
-        <item itemvalue="Application.Tp1.Exo10" />
+        <item itemvalue="Application.TableauxtailleFixe" />
+        <item itemvalue="Application.Exo9" />
+        <item itemvalue="Application.exo7" />
       </list>
     </recent_temporary>
   </component>
@@ -161,6 +160,15 @@
           <url>file://$PROJECT_DIR$/src/Tp1/Exo14.java</url>
           <line>4</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Tp1/exo7.java</url>
+          <line>5</line>
+          <properties class="Tp1.exo7" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
