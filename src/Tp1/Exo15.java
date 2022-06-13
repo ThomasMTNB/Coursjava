@@ -16,3 +16,7 @@ public class Exo15 {
     }
 }
 */
+
+
+// Pattern.matches ( "[0-9] {4}", nom))
+// Character.isDigit(nom)

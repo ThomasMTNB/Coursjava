@@ -3,12 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f2ef0b39-8cc5-4cb5-b738-e694408e1e22" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TableauxtailleFixe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TableauxtailleFixe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Tp1/Exo15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tp1/Exo15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Tp1/Exo17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tp1/Exo17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp1/Exo9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tp1/Exo9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp1/exo16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tp1/exo16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp1/exo7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tp1/exo7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,19 +32,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
-  <component name="RunManager" selected="Application.Exo17">
-    <configuration name="Exo17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tp1.Exo17" />
+}]]></component>
+  <component name="RunManager" selected="Application.Exo23">
+    <configuration name="Exo20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tp1.Exo20" />
       <module name="Algojava" />
       <extension name="coverage">
         <pattern>
@@ -60,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exo9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tp1.Exo9" />
+    <configuration name="Exo21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tp1.Exo21" />
       <module name="Algojava" />
       <extension name="coverage">
         <pattern>
@@ -73,15 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TableauxtailleFixe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TableauxtailleFixe" />
-      <module name="Algojava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="exo16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tp1.exo16" />
+    <configuration name="Exo22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tp1.Exo22" />
       <module name="Algojava" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tp1.exo7" />
+    <configuration name="Exo23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tp1.Exo23" />
       <module name="Algojava" />
       <extension name="coverage">
         <pattern>
@@ -102,17 +91,24 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FillupTableauXD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FillupTableauXD" />
+      <module name="Algojava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exo17" />
-        <item itemvalue="Application.exo16" />
-        <item itemvalue="Application.TableauxtailleFixe" />
-        <item itemvalue="Application.Exo9" />
-        <item itemvalue="Application.exo7" />
+        <item itemvalue="Application.Exo23" />
+        <item itemvalue="Application.Exo22" />
+        <item itemvalue="Application.Exo21" />
+        <item itemvalue="Application.Exo20" />
+        <item itemvalue="Application.FillupTableauXD" />
       </list>
     </recent_temporary>
   </component>
@@ -169,6 +165,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Tp1/Exo22.java</url>
+          <line>6</line>
+          <properties class="Tp1.Exo22" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

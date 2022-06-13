@@ -30,7 +30,7 @@ public class Exo17 {
             }
         }
 
-        if (searchtrue = true) {
+        if (searchtrue == true) {
             System.out.println("votre recherche est present dans la table");
             for (int i=0;i<=tableau.length-1;i++) {
                 if (search == tableau[i]) {
