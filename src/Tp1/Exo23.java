@@ -17,44 +17,12 @@ public class Exo23 {
         maillist.add("jules.cesar@hotmail.fr");
 
 
-
-
         var gmail = 0;
         var yahoo = 0;
         var hotmail = 0;
 
 
-        /*
-
-
-
-
-
-        for (int i=0;i<= maillist.size();i++) {
-            String email = maillist.get(i);
-            if (email.contains("@")) {
-                int position = email.indexOf('@');
-                if (email.substring(position,email.length()).equals("gmail.com")) {
-                    gmail = gmail +1;
-                }
-                else if (email.substring(position,email.length()).equals("yahoo.fr")) {
-                    yahoo = yahoo +1;
-                }
-                else if (email.substring(position,email.length()).equals("hotmail.fr")) {
-                    hotmail = hotmail +1;
-                }
-            }
-            else {
-                System.out.println ("not an email");
-            }
-
-}
-            */
-
-
-
-
-        for (int i=0;i<= maillist.size();i++) {
+        for (int i=0;i<=maillist.size()-1;i++) {
             String email = maillist.get(i);
             String domaine = email.substring(email.indexOf('@'));
             if (domaine.equals("gmail.com")) {
@@ -76,11 +44,17 @@ public class Exo23 {
         System.out.println("proportion des domaines : " + Tgmail + "%, " + Tyahoo+ "%, " + Thotmail + "%");
 
 
-
-
-
-
-
     }
 }
 
+// refaire %%%
+// refaire avec Hashmap
+// refaire avec .contain "domain"
+
+
+
+// Ecrire un programme Java qui remplit un tableau avec une liste des adresse email : christian.lisangola@gmail.com, jean.paul@gmail.com, alain@gmail.com, lydie@yahoo.fr, josephine.lajoie@yahoo.com, luise@hotmail.fr, philemon.turion@gmail.com, jules.cesar@hotmail.fr
+//
+//Ensuite le programme va afficher en % le taux d'adresse gmail, yahoo et hotmail.
+//
+//Essayer de le résoudre au plus, et essayer approche basé sur le HMap.
