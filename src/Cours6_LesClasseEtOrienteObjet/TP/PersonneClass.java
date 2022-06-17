@@ -1,4 +1,4 @@
-package Cours6.TP;
+package Cours6_LesClasseEtOrienteObjet.TP;
 
 public class PersonneClass {
 

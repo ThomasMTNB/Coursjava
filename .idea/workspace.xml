@@ -2,53 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2ef0b39-8cc5-4cb5-b738-e694408e1e22" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Cours5/F3HashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cours5/F4hashmap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cours5/G1ProgProcedurale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cours5/G2ProgPrecedurale2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tp1/Exo24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tp1/Exo25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cours6_LesClasseEtOrienteObjet/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cours7_Inheritance/GuerrierClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cours7_Inheritance/MagicienClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cours7_Inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cours7_Inheritance/PersonnageClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cours7_Inheritance/SorcierClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cours7_Inheritance/TP/Camion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cours7_Inheritance/TP/Exo28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cours7_Inheritance/TP/Voiture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cours7_Inheritance/TP/vehicule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cours7_Inheritance/VoleurClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cours8_Methodestatic/AppConfigurations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cours8_Methodestatic/Personnage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cours8_Methodestatic/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cours8_Methodestatic/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrayequality.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours4/E1Arrayequality.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Boolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours2/B5Boolean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BoucleFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours3/C1BoucleFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bouclewhilepractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours3/C3Bouclewhilepractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Constante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours2/B3Constante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FillupTableauXD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours4/E3TableauFillupTXD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stringmethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours5/F2Stringmethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stringstorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours5/F1Stringstorage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TableauDynamique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours4/E4TableauDynamique.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TableauXD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours4/E2TableauXD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TableautailleFixeSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours4/D2TableautailleFixeSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TableauxtailleFixe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours4/D1TableauxtailleFixe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp1/Exo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours1/TP/Exo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp1/Exo10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours3/TP/Exo10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp1/Exo12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours3/TP/Exo12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp1/Exo13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours3/TP/Exo13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp1/Exo14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours3/TP/Exo14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp1/Exo15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours3/TP/Exo15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp1/Exo17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours4/TP/Exo17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp1/Exo18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours4/TP/Exo18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp1/Exo19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours4/TP/Exo19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp1/Exo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours1/TP/Exo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp1/Exo20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours4/TP/Exo20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp1/Exo21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours4/TP/Exo21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp1/Exo22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tp1/Exo22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp1/Exo23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tp1/Exo23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp1/Exo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours2/TP/Exo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp1/Exo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours2/TP/Exo4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp1/Exo9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours2/TP/Exo9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp1/exo11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours3/TP/exo11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp1/exo16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours4/TP/exo16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp1/exo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours2/TP/exo5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp1/exo7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours2/TP/exo7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tp1/exo8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours2/TP/exo8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours1/A1Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/affichage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours2/B1affichage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bouclewhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours3/C2bouclewhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/conditionintro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours1/A2conditionintro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonctionsmath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours2/B4fonctionsmath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours2/B2lecture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cours4/TP/Exo18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours4/TP/Exo18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cours5/F2Stringmethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours5/F2Stringmethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cours6/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cours6/Rectangle2Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours6_LesClasseEtOrienteObjet/Rectangle2Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cours6/Rectangle3Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours6_LesClasseEtOrienteObjet/Rectangle3Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cours6/RectangleClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours6_LesClasseEtOrienteObjet/RectangleClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cours6/TP/Exo26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours6_LesClasseEtOrienteObjet/TP/Exo26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cours6/TP/Exo27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours6_LesClasseEtOrienteObjet/TP/Exo27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cours6/TP/PatientClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours6_LesClasseEtOrienteObjet/TP/PatientClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cours6/TP/PersonneClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cours6_LesClasseEtOrienteObjet/TP/PersonneClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,20 +73,13 @@
       <recent name="E:\Stockage\Javaproject\Algojava\src\Cours1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exo26">
-    <configuration name="Cours5.F4hashmap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cours5.F4hashmap" />
-      <module name="Algojava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exo10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cours3.TP.Exo10" />
+  <component name="RunManager" selected="Application.Exo28">
+    <configuration name="Cours6_LesClasseEtOrienteObjet.TP.Exo27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cours6_LesClasseEtOrienteObjet.TP.Exo27" />
       <module name="Algojava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Cours3.TP.*" />
+          <option name="PATTERN" value="Cours6_LesClasseEtOrienteObjet.TP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exo17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cours4.TP.Exo17" />
+    <configuration name="Cours7_Inheritance.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cours7_Inheritance.Main" />
       <module name="Algojava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Cours4.TP.*" />
+          <option name="PATTERN" value="Cours7_Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +101,11 @@
       </method>
     </configuration>
     <configuration name="Exo26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cours6.TP.Exo26" />
+      <option name="MAIN_CLASS_NAME" value="Cours6_LesClasseEtOrienteObjet.TP.Exo26" />
       <module name="Algojava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Cours6.TP.*" />
+          <option name="PATTERN" value="Cours6_LesClasseEtOrienteObjet.TP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +113,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exo27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tp1.Exo27" />
+    <configuration name="Exo28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cours7_Inheritance.TP.Exo28" />
       <module name="Algojava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Cours1.TP.*" />
+          <option name="PATTERN" value="Cours7_Inheritance.TP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cours6_LesClasseEtOrienteObjet.Main" />
+      <module name="Algojava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cours6_LesClasseEtOrienteObjet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +141,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exo26" />
-        <item itemvalue="Application.Tp1.Exo17" />
-        <item itemvalue="Application.Cours3.TP.Exo10" />
-        <item itemvalue="Application.Tp1.Exo27" />
-        <item itemvalue="Application.Cours5.F4hashmap" />
+        <item itemvalue="Application.Exo28" />
+        <item itemvalue="Application.Cours7_Inheritance.Main" />
+        <item itemvalue="Application.Cours6_LesClasseEtOrienteObjet.TP.Exo27" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +193,7 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Cours6/TP/PersonneClass.java</url>
+          <url>file://$PROJECT_DIR$/src/Cours6_LesClasseEtOrienteObjet/TP/PersonneClass.java</url>
           <line>33</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>

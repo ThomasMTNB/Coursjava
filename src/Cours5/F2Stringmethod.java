@@ -27,3 +27,5 @@ public class F2Stringmethod {
         System.out.println(chaine2);
     }
 }
+
+

@@ -1,4 +1,4 @@
-package Cours6.TP;
+package Cours6_LesClasseEtOrienteObjet.TP;
 
 public class Exo27 {
     public static void main(String[] args) {

@@ -12,6 +12,7 @@ public class Exo18 {
 
 
 
+
         for(int i=texte.length()-1;i>=0;i--){
             reverse = reverse + texte.charAt(i);
         }

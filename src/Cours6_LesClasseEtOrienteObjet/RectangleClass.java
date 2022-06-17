@@ -1,4 +1,4 @@
-package Cours6;
+package Cours6_LesClasseEtOrienteObjet;
 
     class RectangleClass {
         double longueur;

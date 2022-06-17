@@ -1,4 +1,4 @@
-package Cours6.TP;
+package Cours6_LesClasseEtOrienteObjet.TP;
 
 public class PatientClass {
 
@@ -16,6 +16,14 @@ public class PatientClass {
         this.taille=taille;
         this.poid=poid;
         this.age=age;
+    }
+
+    public PatientClass(){
+        nom="";
+        prenom="";
+        taille=0;
+        poid=0;
+        age=0;
     }
 
 
